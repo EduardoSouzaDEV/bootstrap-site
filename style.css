@@ -1,0 +1,52 @@
+.text-font{
+    font-family: "Roboto", sans-serif;
+}
+
+.color-text span,
+.color-text{
+    color: #ffffff;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+.nav-item .nav-link.active,
+.bg-nav{
+    background-color: #5a5a5a;
+}
+
+.font-large{
+    font-size: 30px;
+}
+
+.color-bg{
+    background-color:#747474;
+}
+
+.color-pattern{
+    background-color: #3c3c3c;
+}
+
+.text-colored{
+    color: white;
+}
+
+.img-object{
+    object-fit: cover;
+    height: 450px;
+}
+
+.img-turismo{
+    object-fit: cover;
+    height: 400px;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
